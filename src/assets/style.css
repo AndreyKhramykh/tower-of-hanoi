@@ -4,6 +4,8 @@
     box-sizing: border-box;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans&family=Source+Code+Pro:wght@300;400;600;700;900&display=swap');
+
 @font-face {
     font-family: Pixel;
     src: url(@/assets/font/PixelifySans-Regular.ttf);
